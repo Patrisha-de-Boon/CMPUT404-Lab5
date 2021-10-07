@@ -3,7 +3,7 @@
 
 AUTHOR = 'deboon'
 SITENAME = 'Lab5'
-SITEURL = 'https://patrisha-de-boon.github.io/CMPUT404-Lab5'
+SITEURL = ''
 
 PATH = 'content'
 
